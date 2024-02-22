@@ -1,0 +1,27 @@
+Current level: 1
+count of total attacking positions: 12
+Rook Green 6 6
+Queen Blue 3 4
+Knight Blue 7 3
+Bishop White 5 1
+Bishop White 6 2
+Bishop White 5 8
+Queen Red 3 2
+Knight White 4 6
+Knight Pink 6 8
+Knight Pink 7 7
+Queen Pink 3 7
+
+Team with the minimum value: Red 10.0
+Rook Green 6 6
+Rook Green 5 2
+Queen Blue 3 4
+Knight Blue 7 3
+Bishop White 5 1
+Bishop White 6 2
+Bishop White 5 8
+Queen Red 3 2
+Knight White 4 6
+Knight Pink 6 8
+Queen Pink 3 7
+

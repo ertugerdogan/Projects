@@ -1,0 +1,3 @@
+test@d9d38dbf70fc:~/hostvolume/homework2/$ ./bin/homework2 cases/input2.txt
+
+Check-in failed to be completed on time, it took 181 minutes.

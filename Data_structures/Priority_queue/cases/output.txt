@@ -1,0 +1,12 @@
+test@d9d38dbf70fc:~/hostvolume/homework2/$ ./bin/homework2 cases/input.txt
+
+Agent 1 takes passenger 1 at minute 1
+Agent 2 takes passenger 3 at minute 3
+Agent 3 takes passenger 2 at minute 3
+Agent 1 takes passenger 7 at minute 11
+Agent 2 takes passenger 5 at minute 11
+Agent 2 takes passenger 4 at minute 18
+Agent 3 takes passenger 6 at minute 18
+Agent 1 takes passenger 8 at minute 23
+
+Check-in is complete on time in 38 minutes.
